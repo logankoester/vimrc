@@ -1,0 +1,7 @@
+h1. How to install
+
+# Clone this repo using git
+  	<pre>git clone git://github.com/logankoester/vimrc.git ~/projects/vimrc</pre>
+# Symlink the file to ~/.irbrc
+  	<pre>ln -s ~/projects/vimrc/vimrc ~/.irbrc</pre>
+# Run vim and enjoy!
